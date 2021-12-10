@@ -75,14 +75,22 @@
   background-image: url("img/map.jpg");
   transform-origin: 0 0;
   transform: scale(1);
-  width: 3450px;
-  height: 2250px;
+  width: 3354px;
+  height: 2115px;
+}
+
+#kyoto {
+  position: absolute;
+  left: 734px;
+  top: 813px;
 }
 
 .block {
   background-image: url(img/blocks.png);
   background-repeat: no-repeat;
   display: block;
+  transform: scale(0.64);
+  transform-origin: -100% -100%;
 }
 
 .block_date_2 {

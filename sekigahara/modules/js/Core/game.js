@@ -65,9 +65,9 @@ define(['dojo', 'dojo/_base/declare', 'ebg/core/gamegui'], (dojo, declare) => {
 
     resizeBoard(){
       let width = dojo.byId('game_play_area').getBoundingClientRect().width;
-      let map_width = 3450.0;
+      let map_width = 3354.0;
       let scale = width / map_width;
-      let height = toint(scale * 2250);
+      let height = toint(scale * 2115);
       dojo.style('board', 'transform',  'scale('+scale+')');
       dojo.style('board_wrapper', 'height', height+'px');
     },

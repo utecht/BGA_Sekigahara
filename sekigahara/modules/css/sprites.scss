@@ -2,6 +2,8 @@
     background-image: url(img/blocks.png);
     background-repeat: no-repeat;
     display: block;
+    transform: scale(.64);
+    transform-origin: -100% -100%;
 }
 
 .block_date_2 {
