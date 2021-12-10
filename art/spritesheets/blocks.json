@@ -1,0 +1,1155 @@
+{
+	"frames": {
+		"Date_2.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Date_3.png": {
+			"frame": {
+				"x": 181,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Date_Arq.png": {
+			"frame": {
+				"x": 361,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Date_Cavalry.png": {
+			"frame": {
+				"x": 541,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Fukushima_2.png": {
+			"frame": {
+				"x": 721,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Fukushima_3.png": {
+			"frame": {
+				"x": 1,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Fukushima_Arq.png": {
+			"frame": {
+				"x": 181,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Fukushima_Cavalry.png": {
+			"frame": {
+				"x": 361,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Ishida_Block_Back.png": {
+			"frame": {
+				"x": 541,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Kobayakawa_2.png": {
+			"frame": {
+				"x": 721,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Kobayakawa_3.png": {
+			"frame": {
+				"x": 1,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Kobayakawa_Arq.png": {
+			"frame": {
+				"x": 181,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Kobayakawa_Cavalry.png": {
+			"frame": {
+				"x": 361,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Maeda_2.png": {
+			"frame": {
+				"x": 541,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Maeda_3.png": {
+			"frame": {
+				"x": 721,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Maeda_Arq.png": {
+			"frame": {
+				"x": 1,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Maeda_Cavalry.png": {
+			"frame": {
+				"x": 181,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Mori_2.png": {
+			"frame": {
+				"x": 361,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Mori_3.png": {
+			"frame": {
+				"x": 541,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Mori_Arq.png": {
+			"frame": {
+				"x": 721,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Mori_Cavalry.png": {
+			"frame": {
+				"x": 1,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Date_2.png": {
+			"frame": {
+				"x": 181,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Date_3.png": {
+			"frame": {
+				"x": 361,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Date_Leader.png": {
+			"frame": {
+				"x": 541,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Uesugi_3.png": {
+			"frame": {
+				"x": 721,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Uesugi_Arq.png": {
+			"frame": {
+				"x": 1,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Round_Uesugi_Leader.png": {
+			"frame": {
+				"x": 181,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Ishida_Leader.png": {
+			"frame": {
+				"x": 361,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Kobayakawa_3.png": {
+			"frame": {
+				"x": 541,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Kobayakawa_Leader.png": {
+			"frame": {
+				"x": 721,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Mori_Cavalry.png": {
+			"frame": {
+				"x": 1,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Tokugawa_3.png": {
+			"frame": {
+				"x": 181,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Tokugawa_Arq.png": {
+			"frame": {
+				"x": 361,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Tokugawa_Leader.png": {
+			"frame": {
+				"x": 541,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Ukita_2.png": {
+			"frame": {
+				"x": 721,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Square_Ukita_Leader.png": {
+			"frame": {
+				"x": 1,
+				"y": 610,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Star_Fukushima_Cavalry.png": {
+			"frame": {
+				"x": 181,
+				"y": 610,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Star_Fukushima_Leader.png": {
+			"frame": {
+				"x": 361,
+				"y": 610,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Star_Il Naomasa.png": {
+			"frame": {
+				"x": 541,
+				"y": 610,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Triangle_Maeda_2.png": {
+			"frame": {
+				"x": 721,
+				"y": 610,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Triangle_Maeda_Arq.png": {
+			"frame": {
+				"x": 1,
+				"y": 697,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Triangle_Maeda_Leader.png": {
+			"frame": {
+				"x": 181,
+				"y": 697,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Triangle_Mori_3.png": {
+			"frame": {
+				"x": 361,
+				"y": 697,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup Triangle_Mori_Leader.png": {
+			"frame": {
+				"x": 541,
+				"y": 697,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Setup_Ishida_Leader.png": {
+			"frame": {
+				"x": 721,
+				"y": 697,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Tokugawa_2.png": {
+			"frame": {
+				"x": 1,
+				"y": 784,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Tokugawa_3.png": {
+			"frame": {
+				"x": 181,
+				"y": 784,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Tokugawa_Arq.png": {
+			"frame": {
+				"x": 361,
+				"y": 784,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Tokugawa_Block_Back.png": {
+			"frame": {
+				"x": 541,
+				"y": 784,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Tokugawa_Cavalry.png": {
+			"frame": {
+				"x": 721,
+				"y": 784,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Uesugi_3.png": {
+			"frame": {
+				"x": 901,
+				"y": 1,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Uesugi_Arq.png": {
+			"frame": {
+				"x": 901,
+				"y": 88,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Uesugi_Cavalry.png": {
+			"frame": {
+				"x": 901,
+				"y": 175,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Ukita_2.png": {
+			"frame": {
+				"x": 901,
+				"y": 262,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Ukita_3.png": {
+			"frame": {
+				"x": 901,
+				"y": 349,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Ukita_Arq.png": {
+			"frame": {
+				"x": 901,
+				"y": 436,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		},
+		"Ukita_Cavalry.png": {
+			"frame": {
+				"x": 901,
+				"y": 523,
+				"w": 178,
+				"h": 85
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 178,
+				"h": 85
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 85
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1080,
+			"h": 870
+		},
+		"scale": "1"
+	}
+}
